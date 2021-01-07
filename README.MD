@@ -1,2 +1,1 @@
-Meu primeiro sistema no git via terminal
-Dan
+Meu primeiro sistema no git via terminal (alterado e atualizado!)
